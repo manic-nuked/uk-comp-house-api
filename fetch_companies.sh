@@ -8,7 +8,7 @@ company_url="${base_url}/company"
 items_per_page=100
 output_file="active_company_details.csv"
 wait_time=5  # Initial wait time in seconds
-Å
+
 # Initialize start_index
 start_index=0
 total_fetched=0
