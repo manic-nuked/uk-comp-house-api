@@ -23,7 +23,7 @@ A script to retrieve details of active companies from the UK Companies House API
 
 3. **Make the Script Executable**:
    ```bash
-   chmod +x fetch_active_company_details.sh
+   chmod +x fetch_active_company.sh
    ```
 
 ## Usage
